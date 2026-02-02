@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8"> 
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SCRF Methodology Guidance</title>
     
@@ -1231,8 +1231,7 @@
                     valueArray.forEach(exampleText => {
                         const li = document.createElement('li');
                         li.textContent = exampleText;
-                        ul.appendChild(li);[scrfguidance.html](https://github.com/user-attachments/files/25018144/scrfguidance.html)
-
+                        ul.appendChild(li);
                     });
 
                     el.appendChild(ul);
