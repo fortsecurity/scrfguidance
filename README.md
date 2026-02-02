@@ -1231,7 +1231,8 @@
                     valueArray.forEach(exampleText => {
                         const li = document.createElement('li');
                         li.textContent = exampleText;
-                        ul.appendChild(li);
+                        ul.appendChild(li);[scrfguidance.html](https://github.com/user-attachments/files/25018144/scrfguidance.html)
+
                     });
 
                     el.appendChild(ul);
